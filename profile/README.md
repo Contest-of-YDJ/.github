@@ -5,7 +5,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Contest-of-YDJ&repo=Frontend&theme=radical&a=b)](https://github.com/Contest-of-YDJ/Frontend)
 
 "**Global Connect**"!
-외국인 근로자를 위한 산재 도움 예방 웹 서비스!
+외국인 근로자를 위한 산재 도움 예방 웹 서비스
 
 공공데이터 API를 사용하여 산재 예방 안내 및 산재 지원 병원 위치와 안전 사업장 정보를 공유하여 도움을 주고자 하는 서비스입니다.
 
