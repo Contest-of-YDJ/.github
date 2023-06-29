@@ -1,14 +1,55 @@
-## Contest of Ydg 👋
+## Global Connect👋
 
-<!--
 
-**Here are some ideas to get you started:**
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Contest-of-YDJ&repo=Backend&theme=radical&a=b)](https://github.com/Contest-of-YDJ/Backend)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Contest-of-YDJ&repo=Frontend&theme=radical&a=b)](https://github.com/Contest-of-YDJ/Frontend)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+"**Global Connect**"!
+외국인 근로자를 위한 산재 도움 예방 웹 서비스!
 
-현재 작업중에 있습니다. 멋진 프로젝트를 조금만 기다려주세요!
+공공데이터 API를 사용하여 산재 예방 안내 및 산재 지원 병원 위치와 안전 사업장 정보를 공유하여 도움을 주고자 하는 서비스입니다.
+
+<br><br/>
+
+## **🏢 System Architecture**
+
+
+
+<br><br/>
+## **🔧 Tech stack**
+
+### Back-end
+
+- Java 17
+- Gradle 7.4.1
+- Spring Boot 2.6.6
+- Spring Security + OAuth 2.0
+- Spring Data JPA
+- Querydsl 5.0.0
+- MySQL 8
+- Lombok
+- Jackson
+- JUnit 5, Mockito, Hamcrest
+- Spring REST Docs
+
+
+<br><br/>
+### Front-end
+
+- React
+- Tailwind CSS
+- Kakao Map API
+
+<br><br/>
+
+
+
+## **👨‍👨‍👧‍👦 Members**
+
+<br>
+
+| 이름   | 개발분야       | Github                                      |
+| ------ | -------------- | ------------------------------------------- |
+| 권종석 | BE             | [himJJong](https://github.com/himJJong)     |
+| 염주헌 | BE             | [Yeom-Yeom](https://github.com/Yeom-Yeom)     |
+| 김동주 | FE             | [kimdongju666](https://github.com/kimdongju666)   |
