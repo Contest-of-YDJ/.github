@@ -27,9 +27,8 @@
 - Spring Data JPA
 - MySQL 8
 - Lombok
-- Swagger
+- Swagger 3.x
 - 고용노동부 API
-- RestAPI
 - Apache PDFBox 2.0.26
 
 
