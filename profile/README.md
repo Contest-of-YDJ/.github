@@ -21,16 +21,16 @@
 ### Back-end
 
 - Java 17
-- Gradle 7.4.1
-- Spring Boot 2.6.6
-- Spring Security + OAuth 2.0
+- Gradle 7.6.1
+- Spring Boot 3.0.5
+- JWT
 - Spring Data JPA
-- Querydsl 5.0.0
 - MySQL 8
 - Lombok
-- Jackson
-- JUnit 5, Mockito, Hamcrest
-- Spring REST Docs
+- Swagger
+- API
+- RestAPI
+- Apache PDFBox
 
 
 <br><br/>
