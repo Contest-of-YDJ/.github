@@ -28,16 +28,18 @@
 - MySQL 8
 - Lombok
 - Swagger
-- API
+- 고용노동부 API
 - RestAPI
-- Apache PDFBox
+- Apache PDFBox 2.0.26
 
 
 <br><br/>
 ### Front-end
 
 - React
-- Tailwind CSS
+- JavaScript
+- Axios
+- eslint
 - Kakao Map API
 
 <br><br/>
