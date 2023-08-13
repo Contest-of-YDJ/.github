@@ -65,6 +65,11 @@
 <img width="1435" alt="image" src="https://github.com/Contest-of-YDJ/.github/assets/68320670/e3bee1e7-6c74-47ef-a265-96861fa314eb">
 <br><br/>
 
+### 산재 예방 메뉴얼 pdf 제공
+<img width="1438" alt="image" src="https://github.com/Contest-of-YDJ/.github/assets/68320670/c3149bfa-0d45-47b3-aec8-197f7285a6dc">
+<br><br>
+
+
 
 
 
