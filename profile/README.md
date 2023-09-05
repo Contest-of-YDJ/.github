@@ -11,7 +11,6 @@
 
 <br><br/>
 
-## **🏢 System Architecture**
 
 
 
