@@ -23,6 +23,7 @@
 - Gradle 7.6.1
 - Spring Boot 3.0.5
 - JWT
+- Jenkins
 - Spring Data JPA
 - MySQL 8
 - Lombok
